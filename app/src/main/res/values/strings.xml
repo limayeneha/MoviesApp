@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="error">Could not connect to movies api</string>
+    <string name="dialog_title">Movie Details View</string>
+    <string name="dialog_message">MOVIE INDEX = %1$s</string>
+</resources>
